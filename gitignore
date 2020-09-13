@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SurfReceiptBankApi/SurfReceiptBankApi.csproj.user
+/SurfReceiptBankApi/obj
+/SurfReceiptBankApi/bin/Debug/netcoreapp3.1
+/SurfReceiptBankApi/.vs
+/.vs
+/SurfReceiptBankApi/Logs/16052020.SurfReceiptBankapi.log
+/SurfReceiptBankApi/Logs/18052020.SurfReceiptBankapi.log
+/SurfReceiptBankApiDatabase/SurfReceiptBankApiDatabase.jfm
+/SurfReceiptBankApiDatabase/obj/Debug

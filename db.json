@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "players": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Wayne Rooney",
+      "Age":  34
     }
   ],
   "profile": {
