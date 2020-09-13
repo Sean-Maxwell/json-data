@@ -17,8 +17,18 @@
       "name": "Roy Keane",
       "Age": 47
     }
+
+
   ],
-  
+  "teams": [
+    {
+      "id": 1,
+      "name": "Man United",
+      "Position": 3
+    }
+
+  ],
+
   "profile": {
     "name": "typicode"
   }
